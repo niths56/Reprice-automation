@@ -1,0 +1,3 @@
+([('RepriceAutomation',
+   '/Users/nithya/Documents/GitHub/Reprice-automation/dist/RepriceAutomation',
+   'EXECUTABLE')],)
